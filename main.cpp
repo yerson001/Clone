@@ -13,6 +13,10 @@ int main(){
  for(int i=0; i<10; i++) {
   cout<<i<<endl;
  }
+ 
+ cout<<"para integrarlo con FloaternNER"<<endl;
+ cout<<"para integrarlo con FloaternNER"<<endl;
+ cout<<"para integrarlo con FloaternNER"<<endl;
 
  for(int i=0; i<10; i++) {
    for(int j=0; j<20; j++){
