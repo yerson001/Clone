@@ -17,11 +17,16 @@ int main(){
  cout<<"para integrarlo con FloaternNER"<<endl;
  cout<<"para integrarlo con FloaternNER"<<endl;
  cout<<"para integrarlo con FloaternNER"<<endl;
+ cout<<"para integrarlo con FloaternNER"<<endl;
+ cout<<"para integrarlo con FloaternNER"<<endl;
+ cout<<"para integrarlo con FloaternNER"<<endl;
+ cout<<"para integrarlo con FloaternNER"<<endl;
 
  for(int i=0; i<10; i++) {
    for(int j=0; j<20; j++){
      cout<<a[i][j]<<endl;
    }
  }
+ cout<<" llll"<<endl;
 return 0;
 }
