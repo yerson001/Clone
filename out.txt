@@ -1,2 +1,5 @@
 
 ut
+
+
+https://github.com/rodRigocaU/Curso-de-IA/tree/main/Tarea%20006%20-Proyecto-Final/TestData
